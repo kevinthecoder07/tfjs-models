@@ -1,4 +1,4 @@
-# Pre-trained TensorFlow.js models
+[![Run on Repl.it](https://repl.it/badge/github/tensorflow/tfjs-models)](https://repl.it/github/tensorflow/tfjs-models)# Pre-trained TensorFlow.js models
 
 This repository hosts a set of pre-trained models that have been ported to
 TensorFlow.js.
